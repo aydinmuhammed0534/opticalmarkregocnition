@@ -141,10 +141,7 @@ cd opticForm
 pip install -r requirements.txt
 ```
 
-3. Run the program:
-```bash
-python name_recognition.py
-```
+
 
 ### Code Structure
 
