@@ -34,10 +34,6 @@ cd opticForm
 pip install -r requirements.txt
 ```
 
-3. Programı çalıştırın:
-```bash
-python name_recognition.py
-```
 
 ### Kod Yapısı
 
@@ -205,7 +201,6 @@ If the program is not giving the desired results:
 
 ### License
 
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ### Contact
 
